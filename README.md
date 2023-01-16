@@ -2,7 +2,7 @@
 
 ## ORDRE DES NOTEBOOKS : 
 
-## 1) Bitcoin Analysis
+### 1) Bitcoin Analysis
 
 ### 2) Données BTC-ECO-BOURSE
 

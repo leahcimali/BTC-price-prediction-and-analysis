@@ -15,5 +15,6 @@ Prediction du bitcoin en utilisant ARIMA et de la volatilité en utilisant GARCH
 ### 4) PREDICTION BITCOIN DEEP LEARNING
 Prediction du bitcoin en utilisant le CNN. 
 
+Lien du Binder : 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leahcimali/BTC-price-analysis/HEAD)
